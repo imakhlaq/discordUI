@@ -3,7 +3,7 @@ import discordLogo from "../../assets/discord_main_logo.svg";
 
 const NavBar = () => {
   return (
-    <header className="bg-[#404eed] -mt-12">
+    <header className="bg-[#404eed] h-[15vh] -mt-12">
       <div className="bg-[#404eed] h-[15vh] flex justify-between w-11/12 my-0 mx-auto px-8 items-center">
         <div>
           <Link to="/">
