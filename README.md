@@ -1,6 +1,6 @@
 # discordUI
 
-//Because of Discord clone Netlify flags as it scam/harmfull website.
+//Because it's a Discord clone Netlify flags it as unsafe website.
 [LIVE LINK](https://chimerical-basbousa-36c416.netlify.app)
 
 Large Screen Look
